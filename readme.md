@@ -11,7 +11,7 @@ with the best content all around the world. It is designed to be built, refined 
 Fork this repo, and submit homework as a pull request on this repo...
 
 ```
-$ git clone git@github.com:sf-wdi-45/scribble.git
+$ git clone https://git.generalassemb.ly/sf-wdi-45/scribble.git
 $ cd scribble
 $ django-admin startproject scribble_project
 $ cd scribble_project
