@@ -11,9 +11,10 @@ with the best content all around the world. It is designed to be built, refined 
 Fork this repo, and submit homework as a pull request on this repo...
 
 ```
-$ git clone git@github.com:ga-dc-wdi-python/scribble.git
+$ git clone git@github.com:sf-wdi-45/scribble.git
 $ cd scribble
-$ django-admin startproject scribble-project
+$ django-admin startproject scribble_project
+$ cd scribble_project
 $ django-admin startapp scribble
 ```
 > When asked if you want to overwrite the readme, enter "n" (for no).
